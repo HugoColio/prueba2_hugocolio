@@ -1,1 +1,2 @@
 esto es el archivo 1 de hugo
+añado nueva linea
